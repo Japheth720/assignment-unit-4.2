@@ -1,0 +1,20 @@
+header {
+    text-align: center;
+    background-color: pink;
+}
+body {
+    text-align: center;
+    max-width: fit-content;
+    image-rendering: auto;
+    border-style: double;
+}
+
+h2 {
+    background-color: maroon;
+    color: aquamarine;
+}
+
+h3 {
+    background-color: red;
+    color: aquamarine;
+}
